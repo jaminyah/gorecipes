@@ -1,1 +1,4 @@
-# gorecipes
+# fizzbuzz
+
+Fizzbuzz solution written in Golang.
+
