@@ -11,5 +11,5 @@ Big-O (n^2)
 6. elements are now sorted.
 
 <p align="center">
-  <img src="img/sort/BubbleSort.svg" alt="bubble sort" /> 
+  <img src="https://github.com/jaminyah/drawio/blob/master/img/sort/BubbleSort.svg" alt="bubble sort" /> 
 </p>
