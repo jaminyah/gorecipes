@@ -13,3 +13,7 @@ Big-O (n^2)
 <p align="center">
   <img src="https://github.com/jaminyah/drawio/blob/master/img/sort/BubbleSort.svg" alt="bubble sort" /> 
 </p>
+
+<p align="center">
+  <img src="https://github.com/jaminyah/drawio/blob/master/img/sort/bubblesort_workflow.svg" alt="bubble sort" /> 
+</p>

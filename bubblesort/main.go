@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	array := []int{14, 8, 22, 4, 10, 31, 13, 27, 9, 26}
+	array := []int{14, 8, 22, 4, 10, 31, 13, 27, 9, 25}
 
 	swapped := true
 	for swapped {
